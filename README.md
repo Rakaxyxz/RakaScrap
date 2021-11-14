@@ -1,16 +1,21 @@
-# MyTelegramOrgRoBot
 
-~~(yet)~~ another my.telegram.org scrapper inside Telegram.
+# RAXS-SCRAPPER
 
-### ⚠ legal DISclaimER 🚸
-please treat your APP ID and API HASH with care, and ensure that they do not fall into wrong hands.
+[<img src="https://telegra.ph/file/aec6cbc4249c30b1a0301.jpg">](https://t.me/RaxScraper)
 
-**Telegram said**: __It is forbidden to pass this value to third parties__.
 
-- can be found on [Telegram](https://telegram.dog/scrapmanbot)
+Bot yang mampu membantu kamu mendapatkan API_ID dan API_HASH
 
-🙄 [@ScrapMan](https://telegram.dog/scrapmanbot) **is the only Telegram RoBot, which is using this repository code**. 🙄😬
-__For any other bots, ask the respective bot developers, for the source code, before sending **any private credentials*" to the bots__.
+# Gasken lah Cuk Deploy di heroku
+
+<a href="https://heroku.com/deploy?template=https://github.com/rakaxyxz/RaxsScraper"><img src="https://img.shields.io/badge/DEPLOY DI-HEROKU-blue?style=for-the-badge&logo=heroku" /></a>
+
+# OWNER
+
+<a href="https://t.me/ImThelastKingMs"><img src="https://img.shields.io/badge/OwnerGanteng-black?style=for-the-badge&logo=telegram" /></a>
+<a href="https://t.me/kenkanrobot"><img src="https://img.shields.io/badge/DEMO-BOT-gold?style=for-the-badge&logo=telegram" /></a>
+
+
 
 ## Frequently Asked Questions
 
@@ -29,7 +34,7 @@ __For any other bots, ask the respective bot developers, for the source code, be
 
 - clone the repository, locally.
 ```sh
-git clone https://github.com/mrismanaziz/Scrap-Man.git
+git clone https://github.com/RakaXyxz/Rakascrap.git
 ```
 
 - change the directory.
@@ -68,10 +73,10 @@ python3 bot.py
 
 ## learning
 
-check out the [helper_funcs](https://github.com/mrismanaziz/Scrap-Man/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
+check out the [helper_funcs](https://github.com/Rakaxyxz/RakaScrap/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
 
 ## LICENSE
-[AGPLv3](https://github.com/mrismanaziz/Scrap-Man/blob/master/LICENSE)
+[AGPLv3](https://github.com/Rakaxyxz/RakaScrap/blob/master/LICENSE)
 
 ## credits
 
@@ -80,4 +85,4 @@ check out the [helper_funcs](https://github.com/mrismanaziz/Scrap-Man/tree/maste
   - [requests](https://github.com/psf/requests)
   - [beautifulsoup4](https://pypi.org/project/beautifulsoup4)
 - Thanks to:
-  - [me](https://tx.me/mrismanaziz)
+  - [me](https://tx.me/ImThelastkinggMs)
